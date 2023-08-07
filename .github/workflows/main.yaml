@@ -1,0 +1,24 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    name: Test and build main
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    container:
+      image: ghcr.io/wndhydrnt/docker-semantic-release:test-release-1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: Configure git
+        run: |
+          git config --global user.name 'wndhydrnt'
+          git config --global user.email 'wndhydrnt@users.noreply.github.com'
+          git config --global --add safe.directory $GITHUB_WORKSPACE
+      - name: Release
+        run: /semantic-release/node_modules/.bin/semantic-release
