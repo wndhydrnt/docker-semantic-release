@@ -1,5 +1,7 @@
 #! /usr/bin/env bash
 
+set -e
+
 description=$(jq -r '.description' package.json)
 name=$(jq -r '.name' package.json)
 node_version=$(grep -i 'FROM ' Dockerfile | cut -d ':' -f 2)
