@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v1.1.0...v1.2.0) (2023-08-07)
+
+
+### Features
+
+* create non-root user in Docker image ([#3](https://github.com/wndhydrnt/docker-semantic-release/issues/3)) ([d8878fb](https://github.com/wndhydrnt/docker-semantic-release/commit/d8878fbfda4511a28fa6ac8bdd24e6844ba8afe7))
+
 ## [1.1.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v1.0.0...v1.1.0) (2023-08-07)
 
 
