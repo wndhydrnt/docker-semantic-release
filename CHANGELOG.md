@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v1.2.0...v1.3.0) (2023-08-07)
+
+
+### Features
+
+* revert use of non-root user ([c1e5bbe](https://github.com/wndhydrnt/docker-semantic-release/commit/c1e5bbe3c0c4df36321a34015aa9932720318f12))
+
 ## [1.2.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v1.1.0...v1.2.0) (2023-08-07)
 
 
