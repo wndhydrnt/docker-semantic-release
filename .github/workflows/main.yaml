@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     container:
-      image: ghcr.io/wndhydrnt/docker-semantic-release:test-release-1
+      image: ghcr.io/wndhydrnt/docker-semantic-release:latest
       env:
         GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
     steps:
