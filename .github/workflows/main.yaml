@@ -12,9 +12,11 @@ jobs:
     container:
       image: ghcr.io/wndhydrnt/docker-semantic-release:test-release-1
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.RELEASE_TOKEN }}
       - name: Configure git
         run: |
           git config --global user.name 'wndhydrnt'
