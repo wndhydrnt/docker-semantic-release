@@ -1,4 +1,6 @@
+CHANGELOG.md
 Dockerfile
 README.md
-build/
+hack/
 node_modules/
+renovate.json
