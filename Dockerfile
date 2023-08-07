@@ -4,4 +4,6 @@ COPY ./ /semantic-release
 
 RUN cd /semantic-release && npm install .
 
-ENTRYPOINT ["/semantic-release/node_modules/.bin/semantic-release"]
+ENV PATH /semantic-release/node_modules/.bin:$PATH
+
+ENTRYPOINT ["semantic-release"]
