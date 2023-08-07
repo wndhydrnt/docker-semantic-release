@@ -2,11 +2,6 @@ FROM node:18.17.0
 
 COPY ./ /semantic-release
 
-RUN adduser --system --home /semantic-release semantic-release && \
-    chown -R semantic-release /semantic-release
-
-USER semantic-release
-
 RUN cd /semantic-release && npm install .
 
 ENV PATH /semantic-release/node_modules/.bin:$PATH
