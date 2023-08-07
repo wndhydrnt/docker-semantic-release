@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "commitMessagePrefix": "feat(deps)",
+  "major": {
+    "commitMessagePrefix": "feat(deps)!"
+  },
+  "semanticCommits": "disabled"
+}
