@@ -23,7 +23,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "./hack/generate-readme.sh > README.md"
+        "prepareCmd": "./hack/generate-readme.sh ${nextRelease.version} > README.md"
       }
     ],
     [

@@ -2,6 +2,14 @@
 
 set -e
 
+release="$1"
+
+if [[ "${release}" == "" ]]; then
+  echo "Usage:"
+  echo "$0 VERSION"
+  exit 1
+fi
+
 description=$(jq -r '.description' package.json)
 name=$(jq -r '.name' package.json)
 node_version=$(grep -i 'FROM ' Dockerfile | cut -d ':' -f 2)
@@ -23,6 +31,13 @@ cat << EOF
 ${description}.
 
 Versions are being kept up-to-date by Renovate.
+
+## Usage
+
+\`\`\`shell
+docker pull ghcr.io/wndhydrnt/${name}:${release}
+docker run --rm -it ghcr.io/wndhydrnt/${name}:${release} --help
+\`\`\`
 
 ## Versions
 

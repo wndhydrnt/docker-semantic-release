@@ -4,6 +4,13 @@ A Docker container that contains semantic-release and plugins.
 
 Versions are being kept up-to-date by Renovate.
 
+## Usage
+
+```shell
+docker pull ghcr.io/wndhydrnt/docker-semantic-release:v1.3.0
+docker run --rm -it ghcr.io/wndhydrnt/docker-semantic-release:v1.3.0 --help
+```
+
 ## Versions
 
 ### Docker Base Image
