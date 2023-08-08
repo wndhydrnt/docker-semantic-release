@@ -1,8 +1,9 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "commitMessagePrefix": "feat(deps)",
+  "extends": ["docker:disableMajor"],
+  "commitMessagePrefix": "feat(deps):",
   "major": {
-    "commitMessagePrefix": "feat(deps)!"
+    "commitMessagePrefix": "feat(deps)!:"
   },
   "semanticCommits": "disabled"
 }
