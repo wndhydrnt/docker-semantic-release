@@ -5,5 +5,12 @@
   "major": {
     "commitMessagePrefix": "feat(deps)!:"
   },
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch"],
+      "automerge": true,
+      "minimumReleaseAge": "3 days"
+    }
+  ],
   "semanticCommits": "disabled"
 }
