@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v1.4.0...v1.5.0) (2023-08-18)
+
+
+### Features
+
+* **deps:** Update node Docker tag to v18.17.1 ([#6](https://github.com/wndhydrnt/docker-semantic-release/issues/6)) ([5397f05](https://github.com/wndhydrnt/docker-semantic-release/commit/5397f058451ca343e2da067a93fee8d7c10c238e))
+
 ## [1.4.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v1.3.0...v1.4.0) (2023-08-18)
 
 
