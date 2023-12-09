@@ -1,3 +1,10 @@
+## [4.3.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v4.2.0...v4.3.0) (2023-12-09)
+
+
+### Features
+
+* **deps:** Update dependency semantic-release to v22.0.10 ([#39](https://github.com/wndhydrnt/docker-semantic-release/issues/39)) ([1a71ead](https://github.com/wndhydrnt/docker-semantic-release/commit/1a71ead62beac9500c3d74653814fc720fc5380c))
+
 ## [4.2.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v4.1.0...v4.2.0) (2023-12-08)
 
 
