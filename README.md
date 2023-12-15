@@ -7,8 +7,8 @@ Versions are being kept up-to-date by Renovate.
 ## Usage
 
 ```shell
-docker pull ghcr.io/wndhydrnt/docker-semantic-release:4.4.0
-docker run --rm -it ghcr.io/wndhydrnt/docker-semantic-release:4.4.0 --help
+docker pull ghcr.io/wndhydrnt/docker-semantic-release:4.5.0
+docker run --rm -it ghcr.io/wndhydrnt/docker-semantic-release:4.5.0 --help
 ```
 
 ## Versions
@@ -26,4 +26,4 @@ docker run --rm -it ghcr.io/wndhydrnt/docker-semantic-release:4.4.0 --help
 - [@semantic-release/gitlab: 12.1.1](https://www.npmjs.com/package/@semantic-release/gitlab/v/12.1.1)
 - [@semantic-release/release-notes-generator: 12.1.0](https://www.npmjs.com/package/@semantic-release/release-notes-generator/v/12.1.0)
 - [conventional-changelog-conventionalcommits: 7.0.2](https://www.npmjs.com/package/conventional-changelog-conventionalcommits/v/7.0.2)
-- [semantic-release: 22.0.10](https://www.npmjs.com/package/semantic-release/v/22.0.10)
+- [semantic-release: 22.0.11](https://www.npmjs.com/package/semantic-release/v/22.0.11)
