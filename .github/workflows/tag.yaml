@@ -16,6 +16,12 @@ jobs:
       packages: write
     steps:
       - uses: actions/checkout@v4
+      - name: Set up node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18.19.0"
+      - name: Install
+        run: npm install .
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
       - name: Set up Docker Buildx

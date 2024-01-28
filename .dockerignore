@@ -2,5 +2,4 @@ CHANGELOG.md
 Dockerfile
 README.md
 hack/
-node_modules/
 renovate.json
