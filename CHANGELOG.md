@@ -1,3 +1,10 @@
+## [4.8.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v4.7.1...v4.8.0) (2024-01-28)
+
+
+### Features
+
+* Upgrade node to 20.11.0 ([872f9dd](https://github.com/wndhydrnt/docker-semantic-release/commit/872f9dd720daa7336221b5a30e00ac52282e6538))
+
 ## [4.7.1](https://github.com/wndhydrnt/docker-semantic-release/compare/v4.7.0...v4.7.1) (2024-01-28)
 
 
