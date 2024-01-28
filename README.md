@@ -7,8 +7,8 @@ Versions are being kept up-to-date by Renovate.
 ## Usage
 
 ```shell
-docker pull ghcr.io/wndhydrnt/docker-semantic-release:4.7.0
-docker run --rm -it ghcr.io/wndhydrnt/docker-semantic-release:4.7.0 --help
+docker pull ghcr.io/wndhydrnt/docker-semantic-release:4.7.1
+docker run --rm -it ghcr.io/wndhydrnt/docker-semantic-release:4.7.1 --help
 ```
 
 ## Versions

@@ -1,3 +1,10 @@
+## [4.7.1](https://github.com/wndhydrnt/docker-semantic-release/compare/v4.7.0...v4.7.1) (2024-01-28)
+
+
+### Bug Fixes
+
+* tag release action fails ([8b028fe](https://github.com/wndhydrnt/docker-semantic-release/commit/8b028feff4b0d1dcb2ac47871748e0342f89bb2a))
+
 ## [4.7.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v4.6.0...v4.7.0) (2023-12-26)
 
 
