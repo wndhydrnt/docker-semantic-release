@@ -1,3 +1,14 @@
+## [6.0.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v5.0.0...v6.0.0) (2024-02-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** Update dependency semantic-release to v23 (#45)
+
+### Features
+
+* **deps:** Update dependency semantic-release to v23 ([#45](https://github.com/wndhydrnt/docker-semantic-release/issues/45)) ([3c868a0](https://github.com/wndhydrnt/docker-semantic-release/commit/3c868a0ca1b176315d1663d26c0af4f21eaff562))
+
 ## [5.0.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v4.8.0...v5.0.0) (2024-02-15)
 
 
