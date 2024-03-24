@@ -1,3 +1,14 @@
+## [7.0.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v6.5.0...v7.0.0) (2024-03-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** Update dependency @semantic-release/github to v10 (#48)
+
+### Features
+
+* **deps:** Update dependency @semantic-release/github to v10 ([#48](https://github.com/wndhydrnt/docker-semantic-release/issues/48)) ([b49d895](https://github.com/wndhydrnt/docker-semantic-release/commit/b49d8956a918556c0474480158260f667195effa))
+
 ## [6.5.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v6.4.0...v6.5.0) (2024-03-21)
 
 
