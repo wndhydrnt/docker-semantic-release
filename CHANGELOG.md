@@ -1,3 +1,10 @@
+## [7.14.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v7.13.0...v7.14.0) (2024-06-02)
+
+
+### Features
+
+* **deps:** Update node Docker tag to v20.14.0 ([#69](https://github.com/wndhydrnt/docker-semantic-release/issues/69)) ([5c11f62](https://github.com/wndhydrnt/docker-semantic-release/commit/5c11f62f46e99aa6ed860295bfc043c77cc24280))
+
 ## [7.13.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v7.12.0...v7.13.0) (2024-05-25)
 
 
