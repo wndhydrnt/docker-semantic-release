@@ -1,3 +1,14 @@
+## [8.0.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v7.22.0...v8.0.0) (2024-07-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** Update dependency conventional-changelog-conventionalcommits to v8 (#60)
+
+### Features
+
+* **deps:** Update dependency conventional-changelog-conventionalcommits to v8 ([#60](https://github.com/wndhydrnt/docker-semantic-release/issues/60)) ([3eedf71](https://github.com/wndhydrnt/docker-semantic-release/commit/3eedf71aa2c4962698336c30e5b565b0b82e5c6c))
+
 ## [7.22.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v7.21.0...v7.22.0) (2024-07-28)
 
 
