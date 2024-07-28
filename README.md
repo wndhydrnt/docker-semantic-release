@@ -7,15 +7,15 @@ Versions are being kept up-to-date by Renovate.
 ## Usage
 
 ```shell
-docker pull ghcr.io/wndhydrnt/docker-semantic-release:7.21.0
-docker run --rm -it ghcr.io/wndhydrnt/docker-semantic-release:7.21.0 --help
+docker pull ghcr.io/wndhydrnt/docker-semantic-release:7.22.0
+docker run --rm -it ghcr.io/wndhydrnt/docker-semantic-release:7.22.0 --help
 ```
 
 ## Versions
 
 ### Docker Base Image
 
-[Node](https://hub.docker.com/_/node): 20.15.1
+[Node](https://hub.docker.com/_/node): 20.16.0
 
 ### Packages
 
