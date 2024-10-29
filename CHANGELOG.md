@@ -1,3 +1,9 @@
+## [9.19.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v9.18.0...v9.19.0) (2024-10-29)
+
+### Features
+
+* **deps:** Update dependency semantic-release to v24.2.0 ([#99](https://github.com/wndhydrnt/docker-semantic-release/issues/99)) ([624c6d6](https://github.com/wndhydrnt/docker-semantic-release/commit/624c6d663bb3991a8966f34eab169f2239caee00))
+
 ## [9.18.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v9.17.0...v9.18.0) (2024-10-22)
 
 ### Features
