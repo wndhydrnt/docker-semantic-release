@@ -1,3 +1,9 @@
+## [10.5.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v10.4.0...v10.5.0) (2025-01-06)
+
+### Features
+
+* **deps:** Update dependency @semantic-release/release-notes-generator to v14.0.3 ([#104](https://github.com/wndhydrnt/docker-semantic-release/issues/104)) ([57d2fcb](https://github.com/wndhydrnt/docker-semantic-release/commit/57d2fcb3e8d595ff58aba90a9e921579306ab81e))
+
 ## [10.4.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v10.3.0...v10.4.0) (2024-12-20)
 
 ### Features
