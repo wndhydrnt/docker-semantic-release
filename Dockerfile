@@ -1,4 +1,4 @@
-FROM node:20.18.2
+FROM node:20.18.3
 
 COPY ./node_modules /semantic-release/node_modules
 
