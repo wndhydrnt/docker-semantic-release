@@ -1,3 +1,9 @@
+## [10.18.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v10.17.0...v10.18.0) (2025-06-18)
+
+### Features
+
+* **deps:** Update dependency @semantic-release/gitlab to v13.2.6 ([#124](https://github.com/wndhydrnt/docker-semantic-release/issues/124)) ([051f685](https://github.com/wndhydrnt/docker-semantic-release/commit/051f6859fb10f3f3be448f52d4919973d7196990))
+
 ## [10.17.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v10.16.0...v10.17.0) (2025-05-28)
 
 ### Features
