@@ -1,3 +1,13 @@
+## [12.0.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v11.0.0...v12.0.0) (2025-08-14)
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** Update dependency conventional-changelog-conventionalcommits to v9 (#121)
+
+### Features
+
+* **deps:** Update dependency conventional-changelog-conventionalcommits to v9 ([#121](https://github.com/wndhydrnt/docker-semantic-release/issues/121)) ([d6644e9](https://github.com/wndhydrnt/docker-semantic-release/commit/d6644e93e4bcd7f12e942c99466670796cdc6e2d))
+
 ## [11.0.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v10.20.0...v11.0.0) (2025-08-14)
 
 ### ⚠ BREAKING CHANGES
