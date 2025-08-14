@@ -7,20 +7,20 @@ Versions are being kept up-to-date by Renovate.
 ## Usage
 
 ```shell
-docker pull ghcr.io/wndhydrnt/docker-semantic-release:10.20.0
-docker run --rm -it ghcr.io/wndhydrnt/docker-semantic-release:10.20.0 --help
+docker pull ghcr.io/wndhydrnt/docker-semantic-release:11.0.0
+docker run --rm -it ghcr.io/wndhydrnt/docker-semantic-release:11.0.0 --help
 ```
 
 ## Versions
 
 ### Docker Base Image
 
-[Node](https://hub.docker.com/_/node): 20.19.3
+[Node](https://hub.docker.com/_/node): 20.19.4
 
 ### Packages
 
 - [@semantic-release/changelog: 6.0.3](https://www.npmjs.com/package/@semantic-release/changelog/v/6.0.3)
-- [@semantic-release/exec: 6.0.3](https://www.npmjs.com/package/@semantic-release/exec/v/6.0.3)
+- [@semantic-release/exec: 7.1.0](https://www.npmjs.com/package/@semantic-release/exec/v/7.1.0)
 - [@semantic-release/git: 10.0.1](https://www.npmjs.com/package/@semantic-release/git/v/10.0.1)
 - [@semantic-release/github: 11.0.3](https://www.npmjs.com/package/@semantic-release/github/v/11.0.3)
 - [@semantic-release/gitlab: 13.2.6](https://www.npmjs.com/package/@semantic-release/gitlab/v/13.2.6)
