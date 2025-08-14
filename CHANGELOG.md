@@ -1,3 +1,9 @@
+## [12.1.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v12.0.0...v12.1.0) (2025-08-14)
+
+### Features
+
+* **deps:** Update dependency @semantic-release/github to v11.0.4 ([#130](https://github.com/wndhydrnt/docker-semantic-release/issues/130)) ([d7406ce](https://github.com/wndhydrnt/docker-semantic-release/commit/d7406ce82bd3605ff3d027060c21b1f67c0d9406))
+
 ## [12.0.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v11.0.0...v12.0.0) (2025-08-14)
 
 ### ⚠ BREAKING CHANGES
