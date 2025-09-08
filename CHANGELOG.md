@@ -1,3 +1,9 @@
+## [12.5.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v12.4.0...v12.5.0) (2025-09-08)
+
+### Features
+
+* **deps:** Update node Docker tag to v20.19.5 ([#134](https://github.com/wndhydrnt/docker-semantic-release/issues/134)) ([105ac09](https://github.com/wndhydrnt/docker-semantic-release/commit/105ac09ca77942b06d03736f35b6bd152cc8edff))
+
 ## [12.4.0](https://github.com/wndhydrnt/docker-semantic-release/compare/v12.3.0...v12.4.0) (2025-09-07)
 
 ### Features
